@@ -16,3 +16,5 @@
 &nbsp;2. **Ejecutar:**
 
 &nbsp;&nbsp;python app.py
+
+&copy; 2023 aslskks
